@@ -14,7 +14,7 @@ The app does use third party services that may collect information used to ident
 ### App Crash Data
 In any case of an error while using the app, we collect some data from your phone called 'Log Data'. This data may include the name of your device, your device ip address, the date and time of the crash report, and the version of your device operating system. 
 
-All these data are collected by a third party service (the google firebase crashlytics), and only used to help us make the app better for the user.
+All these data are collected by a third party service (the google firebase crashlytics), and only used to help us make the app better.
 
 ### Cookies  
 Cookies are files with small amount of data that is commonly used an anonymous unique identifier. These are sent to your browser from the website that you visit and are stored on your devices’s internal memory.  
